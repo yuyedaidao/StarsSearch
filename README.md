@@ -1,1 +1,1 @@
-# StarsSearch[object Object]
+# StarsSearch
