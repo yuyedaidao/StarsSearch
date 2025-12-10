@@ -1,1 +1,44 @@
 # StarsSearch
+1. [espressif/esp-mesh-lite](https://github.com/espressif/esp-mesh-lite) [ESP-Mesh-Lite，Wi-Fi网络，SoftAP + Station模式，自组织自修复，子设备独立上网，应用开发简化，IoT-Bridge，示例，Rainmaker集成，ESP-Mesh-Lite, Wi-Fi networking, SoftAP + Station mode, self-organizing self-healing, sub-device independent internet access, application development simplification, IoT-Bridge, examples, Rainmaker integration]
+1. [n8n-io/n8n](https://github.com/n8n-io/n8n) [工作流自动化，集成，AI原生，自托管，企业级，社区，快速开始，许可证，贡献，团队，Workflow Automation, Integration, AI-Native, Self-Hosted, Enterprise-Ready, Community, Quick Start, License, Contributing, Team]
+1. [PallavAg/MacOS-Clone-SwiftUI](https://github.com/PallavAg/MacOS-Clone-SwiftUI) [MacOS克隆，SwiftUI，iOS应用，AI代码生成，Gemini 3.0 Pro，Dock和菜单栏，系统应用模拟，演示项目，MacOS Clone, SwiftUI, iOS App, AI Code Generation, Gemini 3.0 Pro, Dock and Menubar, System App Recreation, Demo Project]
+1. [OpenAPITools/openapi-generator-cli](https://github.com/OpenAPITools/openapi-generator-cli) [由于您只提供了文件路径 `apps/generator-cli/src/README.md`，而没有提供该文件的实际内容，我无法分析文档并提取关键词。
+
+为了完成您的任务，请您提供该 `README.md` 文件中的**具体文本内容**。例如，您可以提供文件中的标题、项目描述、功能列表、安装步骤、使用方法等信息。
+
+一旦您提供了文档内容，我将立即为您分析并提取出精确的中英文关键词。
+
+**示例：**
+如果您提供的内容是：
+```
+# Generator CLI
+这是一个用于快速生成项目模板的命令行工具。
+主要功能包括：创建新项目、添加组件、配置构建。
+```
+我将提取的关键词可能为：
+`命令行工具，项目模板，生成器，创建项目，添加组件，配置构建`，`CLI, project template, generator, create project, add component, configure build`]
+1. [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) [开源文件管理，社区驱动，AList分支，多存储支持，AGPL许可证，OpenList团队，文件预览，WebDAV，Docker部署，开源治理，File Management, Community-Driven, AList Fork, Multi-Storage Support, AGPL License, OpenList Team, File Preview, WebDAV, Docker Deployment, Open Source Governance]
+1. [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa) [Sentry SDK，iOS，tvOS，macOS，watchOS，安装，初始化，文档，错误监控，移动开发，Sentry SDK, iOS, tvOS, macOS, watchOS, Installation, Initialization, Documentation, Error Monitoring, Mobile Development]
+1. [getsentry/sentry](https://github.com/getsentry/sentry) [Sentry，调试平台，错误监控，应用性能管理，开源SDK，开发者工具，问题追踪，日志分析，用户体验监控，多语言支持；Sentry, Debugging Platform, Error Monitoring, Application Performance Management, Open Source SDKs, Developer Tools, Issue Tracking, Log Analysis, User Experience Monitoring, Multi-language Support]
+1. [kean/Nuke](https://github.com/kean/Nuke) [图像加载系统，iOS，macOS，watchOS，tvOS，visionOS，缓存，图像处理，SwiftUI，异步等待，Image Loading System, iOS, macOS, watchOS, tvOS, visionOS, Cache, Image Processing, SwiftUI, Async/Await]
+1. [nook-browser/Nook](https://github.com/nook-browser/Nook) [Nook浏览器，macOS，侧边栏优先，快速，极简，Swift，开源，GPL-3.0，项目结构，Nook browser, macOS, sidebar-first, fast, minimal, Swift, open source, GPL-3.0, project structure]
+1. [ByteDance-Seed/Seed-Coder](https://github.com/ByteDance-Seed/Seed-Coder) [代码模型，数据自生成，开源，轻量级，高性能，模型中心化，透明，快速开始，性能评估，许可证，Code Model, Self-Curated Data, Open-Source, Lightweight, High-Performance, Model-Centric, Transparent, Quick Start, Performance Evaluation, License]
+1. [fish2018/pansou](https://github.com/fish2018/pansou) [网盘搜索，API服务，高性能，并发搜索，智能排序，异步插件，二级缓存，Docker部署，认证系统，MCP服务，PanSou, API service, high-performance, concurrent search, intelligent sorting, asynchronous plugins, two-level cache, Docker deployment, authentication system, MCP service]
+1. [Snapchat/Valdi](https://github.com/Snapchat/Valdi) [跨平台UI框架，原生性能，TypeScript，热重载，开发者体验，原生集成，视图回收，多语言模块，性能优化，Beta状态，Cross-platform UI framework, Native performance, TypeScript, Hot reload, Developer experience, Native integration, View recycling, Polyglot modules, Performance optimization, Beta status]
+1. [lzllovesyl/VNN](https://github.com/lzllovesyl/VNN) [神经网络部署框架，欢聚集团，高性能，轻量级，跨平台，免费，易用，人脸风格化，图像分割，Neural Network Deployment Framework, Joyy Inc., High Performance, Lightweight, Cross-platform, Free, Easy to Use, Face Stylization, Image Segmentation]
+1. [robertmryan/SimplePing](https://github.com/robertmryan/SimplePing) [SimplePing，网络诊断，ICMP，ping工具，iOS开发，Swift，Combine框架，代码示例，IPv6支持，BSD套接字，SimplePing, network diagnostics, ICMP, ping tool, iOS development, Swift, Combine framework, code sample, IPv6 support, BSD sockets]
+1. [mediaios/net-diagnosis](https://github.com/mediaios/net-diagnosis) [iOS网络诊断SDK，网络诊断，Ping，Traceroute，端口扫描，局域网扫描，SDK集成，移动网络，网络工具，开源项目，iOS Network Diagnostics SDK, Network Diagnostics, Ping, Traceroute, Port Scanning, LAN Scanning, SDK Integration, Mobile Network, Network Tools, Open Source Project]
+1. [aginrocks/agin-music-mobile](https://github.com/aginrocks/agin-music-mobile) [开源音乐客户端，OpenSub音速服务器，React Native，功能特性，路线图，本地构建，iOS，Android，Open source music client, OpenSubsonic server, React Native, Features, Roadmap, Local building, iOS, Android]
+1. [navidrome/navidrome](https://github.com/navidrome/navidrome) [音乐服务器，开源，流媒体，自托管，多用户，跨平台，Docker，Subsonic兼容，个人音乐库，Music Server, Open Source, Streaming, Self-hosted, Multi-user, Cross-platform, Docker, Subsonic Compatible, Personal Music Library]
+1. [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) [Linux服务器管理面板，Web控制面板，开源，容器管理，应用商店，一键部署，安全可靠，备份恢复，多语言支持，1Panel，Linux Server Management Panel，Web Control Panel，Open Source，Container Management，App Store，One-Click Deployment，Secure and Reliable，Backup and Restore，Multi-language Support]
+1. [Xianyu39/obsidian-just-write](https://github.com/Xianyu39/obsidian-just-write) [Obsidian JustWrite，写作工具，长文写作，非线性写作，公众号排版，图片导出，本地存储，模板定制，版本管理，Obsidian插件，Obsidian JustWrite, writing tool, long-form writing, non-linear writing, WeChat public account formatting, image export, local storage, template customization, version control, Obsidian plugin]
+1. [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) [网站监控，实时检测，价格变化，内容更新，通知提醒，自动化工具，自托管，网页变化，条件监控，JSON API，Website monitoring, real-time detection, price changes, content updates, notification alerts, automation tool, self-hosted, web page changes, conditional monitoring, JSON API]
+1. [square/retrofit](https://github.com/square/retrofit) [Retrofit，HTTP客户端，Android，Java，类型安全，下载，R8，ProGuard，许可证，Apache 2.0，Retrofit, HTTP client, Android, Java, type-safe, download, R8, ProGuard, license, Apache 2.0]
+1. [nicklockwood/SwiftFormat](https://github.com/nicklockwood/SwiftFormat) [Swift代码格式化工具，Swift代码格式化，代码格式化工具，SwiftFormat，安装指南，配置选项，格式化规则，命令行工具，Xcode扩展，Git集成，SwiftFormat, code formatting tool, Swift code formatting, installation guide, configuration options, formatting rules, command-line tool, Xcode extension, Git integration]
+1. [pointfreeco/swift-snapshot-testing](https://github.com/pointfreeco/swift-snapshot-testing) [快照测试，Swift，iOS，macOS，UI测试，自动化测试，断言，图像对比，编码测试，SnapshotTesting，Swift，iOS，macOS，UI Testing，Automated Testing，Assertion，Image Comparison，Encodable Testing]
+1. [tw93/MiaoYan](https://github.com/tw93/MiaoYan) [Markdown笔记应用，macOS，轻量级，隐私保护，PPT模式，语法高亮，Mermaid图表，LaTeX，三栏布局，Markdown note-taking app, macOS, lightweight, privacy-focused, PPT mode, syntax highlighting, Mermaid diagrams, LaTeX, three-column layout]
+1. [apple/swift-async-algorithms](https://github.com/apple/swift-async-algorithms) [Swift异步算法，异步序列，并发处理，时间算法，开源项目，Swift包，跨平台，异步编程，算法库，AsyncSequence，Swift Async Algorithms，Asynchronous Sequences，Concurrency，Time-based Algorithms，Open Source，Swift Package，Cross-platform，Async Programming，Algorithms Library，AsyncSequence]
+1. [antgroup/FluidMarkdown](https://github.com/antgroup/FluidMarkdown) [流式渲染，Markdown组件，多平台支持，自定义样式，AI应用，Streaming rendering, Markdown component, Multi-platform support, Customizable styles, AI applications]
+1. [Boris-Em/BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox) [iOS复选框库，自定义动画，Objective-C，Swift，开源，UI组件，复选框，iOS开发，BEMCheckBox，iOS checkbox library, custom animation, Objective-C, Swift, open source, UI component, checkbox, iOS development, BEMCheckBox]
+1. [alibaba/MNN](https://github.com/alibaba/MNN) [深度学习框架，MNN，移动端推理，跨平台，高性能，轻量级，大语言模型，多模态，模型转换，开源，Deep Learning Framework, MNN, Mobile Inference, Cross-platform, High Performance, Lightweight, Large Language Model, Multimodal, Model Conversion, Open Source]
+1. [glideapps/quicktype](https://github.com/glideapps/quicktype) [代码生成，类型安全，多语言支持，JSON转换，TypeScript，GraphQL，快速开发，API集成，自定义渲染，开源贡献，Code Generation, Type Safety, Multi-language Support, JSON Conversion, TypeScript, GraphQL, Rapid Development, API Integration, Custom Rendering, Open Source Contribution]
