@@ -2,21 +2,7 @@
 1. [espressif/esp-mesh-lite](https://github.com/espressif/esp-mesh-lite) [ESP-Mesh-Lite，Wi-Fi网络，SoftAP + Station模式，自组织自修复，子设备独立上网，应用开发简化，IoT-Bridge，示例，Rainmaker集成，ESP-Mesh-Lite, Wi-Fi networking, SoftAP + Station mode, self-organizing self-healing, sub-device independent internet access, application development simplification, IoT-Bridge, examples, Rainmaker integration]
 1. [n8n-io/n8n](https://github.com/n8n-io/n8n) [工作流自动化，集成，AI原生，自托管，企业级，社区，快速开始，许可证，贡献，团队，Workflow Automation, Integration, AI-Native, Self-Hosted, Enterprise-Ready, Community, Quick Start, License, Contributing, Team]
 1. [PallavAg/MacOS-Clone-SwiftUI](https://github.com/PallavAg/MacOS-Clone-SwiftUI) [MacOS克隆，SwiftUI，iOS应用，AI代码生成，Gemini 3.0 Pro，Dock和菜单栏，系统应用模拟，演示项目，MacOS Clone, SwiftUI, iOS App, AI Code Generation, Gemini 3.0 Pro, Dock and Menubar, System App Recreation, Demo Project]
-1. [OpenAPITools/openapi-generator-cli](https://github.com/OpenAPITools/openapi-generator-cli) [由于您只提供了文件路径 `apps/generator-cli/src/README.md`，而没有提供该文件的实际内容，我无法分析文档并提取关键词。
-
-为了完成您的任务，请您提供该 `README.md` 文件中的**具体文本内容**。例如，您可以提供文件中的标题、项目描述、功能列表、安装步骤、使用方法等信息。
-
-一旦您提供了文档内容，我将立即为您分析并提取出精确的中英文关键词。
-
-**示例：**
-如果您提供的内容是：
-```
-# Generator CLI
-这是一个用于快速生成项目模板的命令行工具。
-主要功能包括：创建新项目、添加组件、配置构建。
-```
-我将提取的关键词可能为：
-`命令行工具，项目模板，生成器，创建项目，添加组件，配置构建`，`CLI, project template, generator, create project, add component, configure build`]
+1. [OpenAPITools/openapi-generator-cli](https://github.com/OpenAPITools/openapi-generator-cli) [命令行工具，项目模板，生成器，创建项目，添加组件，配置构建`，`CLI, project template, generator, create project, add component, configure build]
 1. [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) [开源文件管理，社区驱动，AList分支，多存储支持，AGPL许可证，OpenList团队，文件预览，WebDAV，Docker部署，开源治理，File Management, Community-Driven, AList Fork, Multi-Storage Support, AGPL License, OpenList Team, File Preview, WebDAV, Docker Deployment, Open Source Governance]
 1. [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa) [Sentry SDK，iOS，tvOS，macOS，watchOS，安装，初始化，文档，错误监控，移动开发，Sentry SDK, iOS, tvOS, macOS, watchOS, Installation, Initialization, Documentation, Error Monitoring, Mobile Development]
 1. [getsentry/sentry](https://github.com/getsentry/sentry) [Sentry，调试平台，错误监控，应用性能管理，开源SDK，开发者工具，问题追踪，日志分析，用户体验监控，多语言支持；Sentry, Debugging Platform, Error Monitoring, Application Performance Management, Open Source SDKs, Developer Tools, Issue Tracking, Log Analysis, User Experience Monitoring, Multi-language Support]
