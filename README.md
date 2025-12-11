@@ -27,3 +27,4 @@
 1. [Boris-Em/BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox) [iOS复选框库，自定义动画，Objective-C，Swift，开源，UI组件，复选框，iOS开发，BEMCheckBox，iOS checkbox library, custom animation, Objective-C, Swift, open source, UI component, checkbox, iOS development, BEMCheckBox]
 1. [alibaba/MNN](https://github.com/alibaba/MNN) [深度学习框架，MNN，移动端推理，跨平台，高性能，轻量级，大语言模型，多模态，模型转换，开源，Deep Learning Framework, MNN, Mobile Inference, Cross-platform, High Performance, Lightweight, Large Language Model, Multimodal, Model Conversion, Open Source]
 1. [glideapps/quicktype](https://github.com/glideapps/quicktype) [代码生成，类型安全，多语言支持，JSON转换，TypeScript，GraphQL，快速开发，API集成，自定义渲染，开源贡献，Code Generation, Type Safety, Multi-language Support, JSON Conversion, TypeScript, GraphQL, Rapid Development, API Integration, Custom Rendering, Open Source Contribution]
+1. [OpenAPITools/openapi-generator-cli](https://github.com/OpenAPITools/openapi-generator-cli) [openapi-generator-cli]
