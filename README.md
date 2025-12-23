@@ -30,3 +30,4 @@
 1. [OpenAPITools/openapi-generator-cli](https://github.com/OpenAPITools/openapi-generator-cli) [openapi-generator-cli]
 1. [getsentry/Reaper-iOS](https://github.com/getsentry/Reaper-iOS) [死代码检测，运行时分析，iOS框架，Swift，Objective-C，SDK集成，性能影响，开源工具，代码优化，Dead code detection, Runtime analysis, iOS framework, Swift, Objective-C, SDK integration, Performance impact, Open source tool, Code optimization]
 1. [Carthage/Carthage](https://github.com/Carthage/Carthage) [Carthage，依赖管理，iOS/macOS开发，框架集成，XCFrameworks，CocoaPods对比，Swift/Objective-C，GitHub发布，构建工具，CarthageKit,Carthage, Dependency Management, iOS/macOS Development, Framework Integration, XCFrameworks, CocoaPods Comparison, Swift/Objective-C, GitHub Releases, Build Tool, CarthageKit]
+1. [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) [Vibe Coding，AI结对编程，胶水编程，元方法论，工作流程，提示词，开发工具，终极工作站，Vibe Coding, AI Pair Programming, Glue Coding, Meta-Methodology, Workflow, Prompts, Development Tools, Ultimate Workstation]
